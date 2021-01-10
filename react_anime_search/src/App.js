@@ -63,8 +63,11 @@ console.log(temp.results);
               setSearch = { setSearch }
               animeList = { animeList}
           />
+         
       </div>
-    </div>
+      <div><a href="https://www.youtube.com/watch?v=ZZA-QrBBM3Y">thanks to Tyler Potts</a></div>
+      </div>
+      
   );
 }
 

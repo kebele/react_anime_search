@@ -23,6 +23,7 @@ function MainContent(props) {
                 key = { anime.mal_id }/>
         ))}
       </div>
+      
     </main>
   );
 }
